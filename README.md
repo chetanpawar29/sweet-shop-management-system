@@ -81,7 +81,8 @@ The built files will be in the `dist/` directory.
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](<img width="1175" height="640" alt="image" src="https://github.com/user-attachments/assets/f072ab51-42ab-47aa-9a4b-77ad1e8c2c8c" />
+)
 *Main dashboard showing all sweets*
 
 ![Admin Controls](screenshots/admin-controls.png)
