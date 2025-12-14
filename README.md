@@ -81,18 +81,22 @@ The built files will be in the `dist/` directory.
 
 ## Screenshots
 
-![Dashboard](<img width="1175" height="640" alt="image" src="https://github.com/user-attachments/assets/f072ab51-42ab-47aa-9a4b-77ad1e8c2c8c" />
-)
 *Main dashboard showing all sweets*
+<img width="1158" height="640" alt="image" src="https://github.com/user-attachments/assets/f3910a35-36c4-4e15-bc1e-2d31181deaa3" />
 
-![Admin Controls](screenshots/admin-controls.png)
+
+
 *Admin controls for managing inventory*
+<img width="1156" height="641" alt="image" src="https://github.com/user-attachments/assets/95bc1c49-df54-4ef5-a7f8-3de83b2ec29e" />
 
-![Sweet Details](screenshots/sweet-details.png)
+
 *Sweet details with purchase option*
+<img width="1283" height="636" alt="image" src="https://github.com/user-attachments/assets/716e611d-f2ed-4f73-a04c-d818362ebf81" />
 
-![Add Sweet Form](screenshots/add-sweet-form.png)
+
 *Form for adding new sweets (admin only)*
+<img width="1175" height="637" alt="image" src="https://github.com/user-attachments/assets/43386c97-47e8-4659-9973-e2479601331a" />
+
 
 ## My AI Usage
 
